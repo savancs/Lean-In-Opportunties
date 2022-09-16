@@ -17,6 +17,9 @@ If you know of an opportunity to add to this GitHub repository or find any error
 | [Dropbox Software Engineering Intern](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1)  | Remote | Open to students with other math/programming related majors (physics, data sci, math) as well as cs   |
 | [Affirm Software Engineering Intern](https://boards.greenhouse.io/affirm/jobs/5283828003)  | Remote | Easy application   |
 | [Pinterest Software Engineering Intern](https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/)  | Remote | Opem to those finishing sophomore year and up   |
+| [Asurion Software Engineering Intern](https://careers.asurion.com/job/16616666/software-engineering-internship-program-us-nashville-tn/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Nashville, TN | Local!    |
+| [Caterpillar Software Engineering Intern](https://careers.caterpillar.com/en/jobs/job/r0000151025-2023-summer-intern-information-services/)  | Nashville, TN | Lean in alumni work here!   |
+| [General Motors Data Intern](https://lensa.com/2023-summer-intern-digital-transformation-data-analyst-or-data-scientist-jobs/nashville/jd/de4afeedbccc550d5140890f9342766b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Nashville, TN | Data Analyst/Data Scientist internship. Median monthly salary is $4.9k   |
 
 ### Conferences:
 |     Name      |   Location    |     Notes     |
