@@ -5,7 +5,7 @@ List of scholarships, internships, job openings, conferences, and various opport
  # Hello! Welcome to the Lean in Opportunities GitHub repository.
 
 Opportunities will (mostly) be Nashville based or remote.
-If you know of an opportunity to add to this GitHub repository, send an email to belmontleanin@gmail.com
+If you know of an opportunity to add to this GitHub repository or find any errors, send an email to belmontleanin@gmail.com
 
 
 ### Internships:
@@ -13,8 +13,10 @@ If you know of an opportunity to add to this GitHub repository, send an email to
 | ------------- | ------------- | ------------- |
 | [Amazon Software Development Internship](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)  | Nashville, TN  | Winter, summer, and fall applications open. When applying, you will be considered for all locations across the US, but you can choose Nashville as your preference  |
 | [DataBento Software Engineer Internship](https://boards.greenhouse.io/databento/jobs/4374815?)  | Remote | Open to students completing sophomore year   |
-| [Zillow Software Engineer Internship]([https://boards.greenhouse.io/databento/jobs/4374815?](https://zillowgroup.eightfold.ai/careers/job/240531418207?domain=zillowgroup.com))  | Remote | Graduate between Dec 2023-June2024. Says base pay for some states starts at $94k. Not applicable to TN but pretty good for an idea   |
+| [Zillow Software Engineer Internship](https://zillowgroup.eightfold.ai/careers/job/240531418207?domain=zillowgroup.com)  | Remote | Graduate between Dec 2023-June2024. Says base pay for some states starts at $94k. Not applicable to TN but pretty good for an idea   |
 | [Dropbox Software Engineering Intern](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1)  | Remote | Open to students with other math/programming related majors (physics, data sci, math) as well as cs   |
+| [Affirm Software Engineering Intern](https://boards.greenhouse.io/affirm/jobs/5283828003)  | Remote | Easy application   |
+| [Pinterest Software Engineering Intern](https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/)  | Remote | Opem to those finishing sophomore year and up   |
 
 ### Conferences:
 |     Name      |   Location    |     Notes     |
