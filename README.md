@@ -40,5 +40,5 @@ If you know of an opportunity to add to this GitHub repository or find any error
 | [Belmont Business and Tech Career Fair](https://blogs.belmont.edu/masseycareerist/business-and-technology-career-expo/)  | Maddox Grand Atrium  | September 21, 2022 10 am-12:30 pm. AllianceBernstein, Asurion, Caterpillar, and the FBI are just some of the few in attendance looking for tech students!  |
 | [Blacks in Technology Nashville](https://www.meetup.com/blacks-in-technology-nashville/)  | Nashville, TN | Holds a lot of meetups, hackathons, and networking events for black men and women in technology |
 | [Belmont Hackathon](https://www.instagram.com/belmontdataexp/)  | Nashville, TN | October 22nd 9am-4pm. Sponsored by Amazon. More information is coming so keep posted!  |
-| [VandyHacks IX](https://vandyhacks.org/))  | Nashville, TN | Vanderbilt University Hackathon October 21-23rd.  |
+| [VandyHacks IX](https://vandyhacks.org/)  | Nashville, TN | Vanderbilt University Hackathon October 21-23rd.  |
 | [WomenGetIT](http://womengetit.net/)  | Nashville, TN | Nashville-based organization seeking to connect women in tech. Holds a lot of networking events!  |
