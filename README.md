@@ -5,7 +5,7 @@ List of scholarships, internships, job openings, conferences, and various opport
  # Hello! Welcome to the Lean in Opportunities GitHub repository.
 
 Opportunities will (mostly) be Nashville based or remote.
-If you know of an opportunity to add to this GitHub repository or find any errors, send an email to belmontleanin@gmail.com or submit a commit
+If you know of an opportunity to add to this GitHub repository or find any errors, send an email to belmontleanin@gmail.com or submit a pull request
 
 
 ### Internships:
