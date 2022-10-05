@@ -37,7 +37,7 @@ If you know of an opportunity to add to this GitHub repository or find any error
 ### Opportunities:
 |     Name      |   Location    |     Notes     |
 | ------------- | ------------- | ------------- |
-| | [Blacks in Technology Nashville](https://www.meetup.com/blacks-in-technology-nashville/)  | Nashville, TN | Holds a lot of meetups, hackathons, and networking events for black men and women in technology |
+| [Blacks in Technology Nashville](https://www.meetup.com/blacks-in-technology-nashville/)  | Nashville, TN | Holds a lot of meetups, hackathons, and networking events for black men and women in technology |
 | [Belmont Hackathon](https://www.instagram.com/belmontdataexp/)  | Nashville, TN | October 22nd 9am-4pm. Sponsored by Amazon. More information is coming so keep posted!  |
 | [VandyHacks IX](https://vandyhacks.org/)  | Nashville, TN | Vanderbilt University Hackathon October 21-23rd.  |
 | [WomenGetIT](http://womengetit.net/)  | Nashville, TN | Nashville-based organization seeking to connect women in tech. Holds a lot of networking events!  |
