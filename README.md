@@ -31,7 +31,7 @@ If you know of an opportunity to add to this GitHub repository or find any error
 ### Job Openings:
 |     Name      |   Location    |     Notes     |
 | ------------- | ------------- | ------------- |
-| Coming soon!  | Coming soon!  | Coming soon!  |
+| [Electronics Renewal Entry Level Software Developer](https://www.glassdoor.com/job-listing/entry-level-software-developer-electronics-renewal-JV_IC1144541_KO0,30_KE31,50.htm?jl=1008184088992&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Nashville, TN | 0-2 years of experience. 40-55k estimated salary  |
 | Coming soon!  | Coming soon!  | Coming soon!  |
 
 ### Opportunities:
