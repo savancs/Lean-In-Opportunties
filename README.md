@@ -1,5 +1,6 @@
 # Lean-In-Opportunties
-*This repository is currently under construction and will be avaliable again in the fall 2023 semester!
+*This repository is currently under construction!*
+
 List of scholarships, internships, job openings, conferences, and various opportunities available for women in Lean In at Belmont University.
 
 
