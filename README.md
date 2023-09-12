@@ -13,33 +13,30 @@ If you know of an opportunity to add to this GitHub repository or find any error
 ### Internships:
 |     Name      |   Location    |    Notes      |
 | ------------- | ------------- | ------------- |
-| [Amazon Software Development Internship](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)  | Nashville, TN  | Winter, summer, and fall applications open. When applying, you will be considered for all locations across the US but you can choose Nashville as your preference  |
-| [Asurion Software Engineering Intern](https://careers.asurion.com/job/16616666/software-engineering-internship-program-us-nashville-tn/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Nashville, TN | Local!    |
-| [Caterpillar Software Engineering Intern](https://careers.caterpillar.com/en/jobs/job/r0000151025-2023-summer-intern-information-services/)  | Nashville, TN | Lean in alumni work here!   |
-| [General Motors Data Intern](https://lensa.com/2023-summer-intern-digital-transformation-data-analyst-or-data-scientist-jobs/nashville/jd/de4afeedbccc550d5140890f9342766b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Nashville, TN | Data Analyst/Data Scientist internship. Median monthly salary is $4.9k   |
-| [DataBento Software Engineer Internship](https://boards.greenhouse.io/databento/jobs/4374815?)  | Remote | Open to students completing sophomore year   |
-| [Zillow Software Engineer Internship](https://zillowgroup.eightfold.ai/careers/job/240531418207?domain=zillowgroup.com)  | Remote | Graduate between Dec 2023-June 2024. Says base pay for some states starts at $94k. Not applicable to TN but pretty good for an idea   |
-| [Dropbox Software Engineering Intern](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1)  | Remote | Open to students with other math/programming related majors (physics, data sci, math) as well as cs   |
-| [Affirm Software Engineering Intern](https://boards.greenhouse.io/affirm/jobs/5283828003)  | Remote | Easy application   |
-| [Pinterest Software Engineering Intern](https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/)  | Remote | Open to those finishing sophomore year and up   |
+| [Amazon Software Development Internship](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us)  | Nashville, TN/US Wide  | Winter, summer, and fall applications. When applying, you will be considered for all locations across the US   |
+| [Asurion Software Engineering Intern](https://careers.asurion.com/meet-our-teams/students-and-internships/)  | Nashville, TN | Great local company with great internship program!    |
+| [Caterpillar Software Engineering Intern](https://careers.caterpillar.com/en/jobs/job/r0000218577-2024-summer-corporate-intern-information-technology/)  | Nashville, TN | Lean in alumni work here!   |
+| [CGI Software Developer Intern](https://uat.ent.cgi.com/en/careers) | Nashville, TN | Estimated range is $20-25 an hour.   |
+| [Deloitte Business Technology Solutions Summer Scholar](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Business-Technology-Solutions-Summer-Scholar/144040)  | Nashville, TN | Open to a lot of diverse majors!   |
+| [Alliance Bernstein Software Development Summer Intern](https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Software-Development-Summer-Intern_R0010567)  | Nashville, TN | Mentions Java in the job description, CS majors should be qualified!   |
+| [Dropbox Software Engineering Intern](https://jobs.dropbox.com/listing/5265677)  | Remote | Open to students with other math/programming related majors (physics, data sci, math) as well as cs   |
 
 
 ### Conferences:
 |     Name      |   Location    |     Notes     |
 | ------------- | ------------- | ------------- |
-| [GitHub Universe 2022](https://githubuniverse.com/) | San Francisco/Remote  |  November 9-10. Registration for virtual attendee is FREE |
+| [GitHub Universe 2023](https://githubuniverse.com/) | San Francisco/Remote  |  November 8-9. Registration for virtual attendee is FREE |
 | Coming soon!  | Coming soon!  | Coming soon!  |
 
 ### Job Openings:
 |     Name      |   Location    |     Notes     |
 | ------------- | ------------- | ------------- |
-| [Electronics Renewal Entry Level Software Developer](https://www.glassdoor.com/job-listing/entry-level-software-developer-electronics-renewal-JV_IC1144541_KO0,30_KE31,50.htm?jl=1008184088992&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Nashville, TN | 0-2 years of experience. 40-55k estimated salary  |
 | Coming soon!  | Coming soon!  | Coming soon!  |
 
 ### Opportunities:
 |     Name      |   Location    |     Notes     |
 | ------------- | ------------- | ------------- |
 | [Blacks in Technology Nashville](https://www.meetup.com/blacks-in-technology-nashville/)  | Nashville, TN | Holds a lot of meetups, hackathons, and networking events for black men and women in technology |
-| [Belmont Hackathon](https://www.instagram.com/belmontdataexp/)  | Nashville, TN | October 22nd 9am-4pm. Sponsored by Amazon. More information is coming so keep posted!  |
-| [VandyHacks IX](https://vandyhacks.org/)  | Nashville, TN | Vanderbilt University Hackathon October 21-23rd.  |
+| [Belmont Hackathon](https://www.instagram.com/belmontdataexp/)  | Nashville, TN | More information is coming so keep posted!  |
+| [VandyHacks](https://vandyhacks.org/)  | Nashville, TN | Vanderbilt University Hackathon  |
 | [WomenGetIT](http://womengetit.net/)  | Nashville, TN | Nashville-based organization seeking to connect women in tech. Holds a lot of networking events!  |
