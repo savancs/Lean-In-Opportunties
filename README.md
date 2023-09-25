@@ -39,6 +39,7 @@ If you know of an opportunity to add to this GitHub repository or find any error
 | [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)  | N/A  | List of companies that don't give crazy technicals  |
 | [SWEList](https://swelist.com/)  | N/A  | Great website/repo for searching for internships! Hit the "2024Summer-Internships" link to see them all!  |
 | [LeetCode](https://leetcode.com/)  | N/A  | Start LeetCode practice now to prepare for technical interviews!  |
+| [Jobscan](https://www.jobscan.co/)  | N/A  | AI Resume check!  |
 
 ### Opportunities:
 |     Name      |   Location    |     Notes     |
