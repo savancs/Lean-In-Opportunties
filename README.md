@@ -31,7 +31,7 @@ If you know of an opportunity to add to this GitHub repository or find any error
 |     Name      |   Location    |     Notes     |
 | ------------- | ------------- | ------------- |
 | [GitHub Universe 2023](https://githubuniverse.com/) | San Francisco/Remote  |  November 8-9. Registration for virtual attendee is FREE |
-| [Belmont Business and Career Expo](https://belmont.campuslabs.com/engage/event/9164983)  | Maddox Grand Atrium  | September 17th from 2-4:30 pm. Great career fair with lots of local companies. Come with updated resumes!  |
+
 
 ### Online Resources:
 |     Name      |   Location    |     Notes     |
